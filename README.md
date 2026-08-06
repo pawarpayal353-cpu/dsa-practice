@@ -12,13 +12,20 @@ I update this repo **daily** with new chapters and practice problems.
 
 ### 📂 Current Progress
 
+| Chapter | Topic | Status |
+| --- | --- | --- |
+| 1 | C Basics | ✅ Done |
+| 2 | Operators & Decision Making | ✅ Done |
+| 3 | Loops - for, while, do-while | 🔄 Coming Soon |
+| 4 | Functions & Arrays | ⏳ Upcoming |
+
 #### `chapter 1` - C Basics
-Topics: Variables, Input/Output, Basic Practice Problems
+**Topics:** `Variables` | `Input/Output` | `Basic Practice Problems`
 ```c
 chapter 1/
 ├── 01_variable.c // Understanding variables and data types
 ├── 02_input.c // Taking input from user
 ├── 03_practice.c // Practice problem 1
 ├── 04_practice.c // Practice problem 2
-├── 05_practive.c // Practice problem 3
+├── 05_practice.c // Practice problem 3  <-- fixed typo
 └── 06_practice.c // Practice problem 4
