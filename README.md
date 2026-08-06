@@ -12,6 +12,33 @@ I update this repo **daily** with new chapters and practice problems.
 
 ### 📂 Current Progress
 
+### 📊 Learning Progress
+
+**C Language**
+`C Basics` ████████████ 100% ✅
+`Operators` ████████████ 100% ✅  
+`Loops` ░░░░░░░░░░░░ 0% 🔄
+`Functions` ░░░░░░░░ 0% ⏳
+`Arrays` ░░░░░░░░ 0% ⏳
+`Pointers` ░░░░░░░░░░░░ 0% ⏳
+`C++` ░░░░░░░░░░░░ 0% ⏳
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pawarpayal353-cpu&show_icons=true&theme=radical&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawarpayal353-cpu&theme=radical" />
+</p>
+
+
+### 💻 Languages Used
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawarpayal353-cpu&layout=compact&theme=radical" />
+</p>
 | Chapter | Topic | Status |
 | --- | --- | --- |
 | 1 | C Basics | ✅ Done |
