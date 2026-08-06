@@ -44,6 +44,13 @@ I update this repo **daily** with new chapters and practice problems.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawarpayal353-cpu&layout=compact&theme=radical" />
 </p>
 
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 #### `📁 Chapter 1` - **C Basics**
 **Topics:** `📦 Variables` | `⌨️ Input/Output` | `📝 Practice Problems`
 
