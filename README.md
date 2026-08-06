@@ -1,3 +1,4 @@
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=DSA+Practice&fontSize=45&fontColor=white&animation=twinkling" />
 
 <h3 align="center">
@@ -5,40 +6,13 @@
 </h3>
 
 ### 👋 About This Repo
-This is my **DSA + Coding Practice Repo**.
-Right now I'm focusing on **C Language fundamentals**.
-From next week I'll start **C++** as well.
+This is my **DSA + Coding Practice Repo**.  
+Right now I'm focusing on **C Language fundamentals**.  
+From next week I'll start **C++** as well.  
 I update this repo **daily** with new chapters and practice problems.
 
 ### 📂 Current Progress
 
-### 📊 Learning Progress
-
-**C Language**
-`C Basics` ████████████ 100% ✅
-`Operators` ████████████ 100% ✅  
-`Loops` ░░░░░░░░░░░░ 0% 🔄
-`Functions` ░░░░░░░░ 0% ⏳
-`Arrays` ░░░░░░░░ 0% ⏳
-`Pointers` ░░░░░░░░░░░░ 0% ⏳
-`C++` ░░░░░░░░░░░░ 0% ⏳
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawarpayal353-cpu&show_icons=true&theme=radical&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawarpayal353-cpu&theme=radical" />
-</p>
-
-
-### 💻 Languages Used
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawarpayal353-cpu&layout=compact&theme=radical" />
-</p>
 | Chapter | Topic | Status |
 | --- | --- | --- |
 | 1 | C Basics | ✅ Done |
@@ -46,8 +20,33 @@ I update this repo **daily** with new chapters and practice problems.
 | 3 | Loops - for, while, do-while | 🔄 Coming Soon |
 | 4 | Functions & Arrays | ⏳ Upcoming |
 
-#### `chapter 1` - C Basics
-**Topics:** `Variables` | `Input/Output` | `Basic Practice Problems`
+### 📊 Learning Progress
+
+**C Language**  
+`C Basics` ████████████ 100% ✅  
+`Operators` ████████████ 100% ✅  
+`Loops` ░░░░░░░░ 0% 🔄  
+`Functions` ░░░░░░░░ 0% ⏳  
+`Arrays` ░░░░░░░░ 0% ⏳  
+`C++` ░░░░░░░░ 0% ⏳
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pawarpayal353-cpu&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawarpayal353-cpu&theme=radical" />
+</p>
+
+### 💻 Languages Used
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawarpayal353-cpu&layout=compact&theme=radical" />
+</p>
+
+#### `📁 Chapter 1` - **C Basics**
+**Topics:** `📦 Variables` | `⌨️ Input/Output` | `📝 Practice Problems`
+
 ```c
 chapter 1/
 ├── 01_variable.c // 📦 Understanding variables and data types
