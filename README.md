@@ -23,9 +23,16 @@ I update this repo **daily** with new chapters and practice problems.
 **Topics:** `Variables` | `Input/Output` | `Basic Practice Problems`
 ```c
 chapter 1/
-├── 01_variable.c // Understanding variables and data types
-├── 02_input.c // Taking input from user
-├── 03_practice.c // Practice problem 1
-├── 04_practice.c // Practice problem 2
-├── 05_practice.c // Practice problem 3  <-- fixed typo
-└── 06_practice.c // Practice problem 4
+├── 01_variable.c // 📦 Understanding variables and data types
+├── 02_input.c // ⌨️ Taking input from user
+├── 03_practice.c // 📝 Practice problem 1
+├── 04_practice.c // 📝 Practice problem 2
+├── 05_practice.c // 📝 Practice problem 3
+└── 06_practice.c // 📝 Practice problem 4
+
+Chapter 2/
+├── 01_Arithmetic_operators.c // 🔢 Arithmetic, Relational & Logical Operators
+├── 02_practice.c // 🤔 Conditional Operators Practice
+├── 03_practice.c // ✅ More Practice Problems
+├── conditional_operators.c // ⚖️ if-else ladder & nested if
+└── switch_case_statement.c // 🔄 Calculator/Menu using switch-case
