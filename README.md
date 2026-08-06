@@ -85,9 +85,4 @@ Chapter 2/
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-### 📊 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pawarpayal353-cpu&label=Profile%20Views&color=FF00FF&style=for-the-badge" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=white&animation=twinkling" />
