@@ -1,4 +1,6 @@
 
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=DSA+Practice&fontSize=45&fontColor=white&animation=twinkling" />
 
 <h3 align="center">
@@ -10,7 +12,7 @@ This is my **DSA + Coding Practice Repo**.
 Right now I'm focusing on **C Language fundamentals**.  
 From next week I'll start **C++** as well.  
 I update this repo **daily** with new chapters and practice problems.
- 
+
 ### 📂 Current Progress
 
 | Chapter | Topic | Status |
@@ -19,6 +21,7 @@ I update this repo **daily** with new chapters and practice problems.
 | 2 | Operators & Decision Making | ✅ Done |
 | 3 | Loops - for, while, do-while | 🔄 Coming Soon |
 | 4 | Functions & Arrays | ⏳ Upcoming |
+| 5 | Pointers & Memory | ⏳ Upcoming |
 
 ### 📊 Learning Progress
 
@@ -28,7 +31,15 @@ I update this repo **daily** with new chapters and practice problems.
 `Loops` ░░░░░░░░ 0% 🔄  
 `Functions` ░░░░░░░░ 0% ⏳  
 `Arrays` ░░░░░░░░ 0% ⏳  
+`Pointers` ░░░░░░░░ 0% ⏳  
 `C++` ░░░░░░░░ 0% ⏳
+
+### 📌 Featured Repositories
+<p align="center">
+  <a href="https://github.com/pawarpayal353-cpu/dsa-practice">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pawarpayal353-cpu&repo=dsa-practice&theme=radical" />
+  </a>
+</p>
 
 ### 📈 GitHub Stats
 <p align="center">
@@ -46,14 +57,13 @@ I update this repo **daily** with new chapters and practice problems.
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-#### `📁 Chapter 1` - **C Basics**
+#### `📁 Chapter 1` - **C Basics** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c-original.svg" width="25" />
 **Topics:** `📦 Variables` | `⌨️ Input/Output` | `📝 Practice Problems`
-
 ```c
 chapter 1/
 ├── 01_variable.c // 📦 Understanding variables and data types
@@ -69,3 +79,15 @@ Chapter 2/
 ├── 03_practice.c // ✅ More Practice Problems
 ├── conditional_operators.c // ⚖️ if-else ladder & nested if
 └── switch_case_statement.c // 🔄 Calculator/Menu using switch-case
+
+### 💬 Dev Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+### 📊 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pawarpayal353-cpu&label=Profile%20Views&color=FF00FF&style=for-the-badge" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=white&animation=twinkling" />
