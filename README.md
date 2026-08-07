@@ -85,8 +85,3 @@ Chapter 3/
 ├── 05_practice.c // 🔢 Multiplication Table
 └── 06_practice.c // 🔍 Find factors of a number
 
-<p align="center">
-  <img src="{{IE_0}}https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical{{/IE_0}}" />
-</p>
-
-<img src="{{IE_1}}https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=white&animation=twinkling{{/IE_1}}" />
