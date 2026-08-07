@@ -14,7 +14,7 @@ From next week I'll start **C++** as well.
 I update this repo **daily** with new chapters and practice problems.
 
 ### 📂 Current Progress
-
+ 
 | Chapter | Topic | Status |
 | --- | --- | --- |
 | 1 | C Basics | ✅ Done |
