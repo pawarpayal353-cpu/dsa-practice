@@ -1,6 +1,3 @@
-
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=DSA+Practice&fontSize=45&fontColor=white&animation=twinkling" />
  
 <h3 align="center">
@@ -14,13 +11,13 @@ From next week I'll start **C++** as well.
 I update this repo **daily** with new chapters and practice problems.
 
 ### 📂 Current Progress
- 
+
 | Chapter | Topic | Status |
 | --- | --- | --- |
 | 1 | C Basics | ✅ Done |
 | 2 | Operators & Decision Making | ✅ Done |
-| 3 | Loops - for, while, do-while | 🔄 Coming Soon |
-| 4 | Functions & Arrays | ⏳ Upcoming |
+| 3 | Loops - for, while, do-while | ✅ Done |
+| 4 | Functions & Arrays | 🔄 Coming Soon |
 | 5 | Pointers & Memory | ⏳ Upcoming |
 
 ### 📊 Learning Progress
@@ -28,8 +25,8 @@ I update this repo **daily** with new chapters and practice problems.
 **C Language**  
 `C Basics` ████████████ 100% ✅  
 `Operators` ████████████ 100% ✅  
-`Loops` ░░░░░░░░ 0% 🔄  
-`Functions` ░░░░░░░░ 0% ⏳  
+`Loops` ████████████ 100% ✅  
+`Functions` ░░░░░░░░ 0% 🔄  
 `Arrays` ░░░░░░░░ 0% ⏳  
 `Pointers` ░░░░░░░░ 0% ⏳  
 `C++` ░░░░░░░░ 0% ⏳
@@ -80,9 +77,16 @@ Chapter 2/
 ├── conditional_operators.c // ⚖️ if-else ladder & nested if
 └── switch_case_statement.c // 🔄 Calculator/Menu using switch-case
 
-### 💬 Dev Quote of the Day
+Chapter 3/
+├── 01_for_loop.c // 🔁 Print 1 to N
+├── 02_while_loop.c // ♻️ Sum of N numbers
+├── 03_do_while.c // 🔄 Menu driven program
+├── 04_practice.c // ⭐ Pattern 1: Star pyramid
+├── 05_practice.c // 🔢 Multiplication Table
+└── 06_practice.c // 🔍 Find factors of a number
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="{{IE_0}}https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical{{/IE_0}}" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=white&animation=twinkling" />
+<img src="{{IE_1}}https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=white&animation=twinkling{{/IE_1}}" />
