@@ -16,7 +16,7 @@ I update this repo **daily** with new chapters and practice problems.
 | --- | --- | --- |
 | 1 | C Basics | ✅ Done |
 | 2 | Operators & Decision Making | ✅ Done |
-| 3 | Loops - for, while, do-while | ✅ Done |
+| 3 | Loops - for, while, do-while | 🔄 Coming Soon |
 | 4 | Functions & Arrays | 🔄 Coming Soon |
 | 5 | Pointers & Memory | ⏳ Upcoming |
 
@@ -78,7 +78,7 @@ Chapter 2/
 └── switch_case_statement.c   // 🔄 Calculator/Menu using switch-case
 
 
-Chapter 2/
+Chapter 3/
 ├── 01_arithmetic_operators.c     // ➕➖✖️➗ Basic Math Ops
 ├── 02_relational_operators.c     // ⚖️ == != > < >= <=
 ├── 03_logical_operators.c        // 🧠 && || !
