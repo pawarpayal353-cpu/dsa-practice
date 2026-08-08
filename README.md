@@ -90,7 +90,7 @@ Chapter 3/
 ├── 08_switch_case.c              // 🔄 Menu & Calculator
 └── 00_Complete_Chapter_2_Demo.c  // ⭐🔥 Covers ALL topics in 1 file
 
-Chapter 4/  🔁 While Loops
+Chapter 4/  
 |— 01_while_loop.c         // 🔄 Basic while loop syntax and working
 |— 02_while_loop.c         // 🧩 Practice problem using while loop
 |— 03_infinite_loop.c      // ♾️ Understanding infinite loops and termination
