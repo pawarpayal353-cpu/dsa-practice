@@ -16,7 +16,7 @@ I update this repo **daily** with new chapters and practice problems.
 | --- | --- | --- |
 | 1 | C Basics | ✅ Done |
 | 2 | Operators & Decision Making | ✅ Done |
-| 3 | Loops - for, while, do-while | 🔄 Coming Soon |
+| 3 | Loops - for, while, do-while |  ✅ Done |
 | 4 | Functions & Arrays | 🔄 Coming Soon |
 | 5 | Pointers & Memory | ⏳ Upcoming |
 
@@ -25,7 +25,7 @@ I update this repo **daily** with new chapters and practice problems.
 **C Language**  
 `C Basics` ████████████ 100% ✅  
 `Operators` ████████████ 100% ✅  
-`Loops`   ░░░░░░░░ 0% 🔄  
+`Loops`    ████████████ 100% ✅
 `Functions` ░░░░░░░░ 0% 🔄  
 `Arrays` ░░░░░░░░ 0% ⏳  
 `Pointers` ░░░░░░░░ 0% ⏳  
@@ -88,3 +88,8 @@ Chapter 3/
 ├── 07_conditional_statement.c    // 👑 if / else if / else ladder
 ├── 08_switch_case.c              // 🔄 Menu & Calculator
 └── 00_Complete_Chapter_2_Demo.c  // ⭐🔥 Covers ALL topics in 1 file
+
+Chapter 4/  🔁 While Loops
+|— 01_while_loop.c         // 🔄 Basic while loop syntax and working
+|— 02_while_loop.c         // 🧩 Practice problem using while loop
+|— 03_infinite_loop.c      // ♾️ Understanding infinite loops and termination
