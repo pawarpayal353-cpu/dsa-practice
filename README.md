@@ -112,11 +112,7 @@ chapter-5/ |— 01_pointer.c            // 🎯 Pointer basics
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </p>
 
----
 
-
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=white&animation=twinkling" />
 
