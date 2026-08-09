@@ -22,14 +22,14 @@ I update this repo **daily** with new chapters and practice problems.
 
 ### 📊 Learning Progress
 
-**C Language**  
-`C Basics` ████████████ 100% ✅  
-`Operators` ████████████ 100% ✅ 
-`Loops`  ████████████ 100% ✅
-`Pointers`  ████████████ 100% ✅ 
-`Functions` ░░░░░░░░ 0% 🔄  
-`Arrays` ░░░░░░░░ 0% ⏳ 
-`C++` ░░░░░░░░ 0% ⏳
+**C Language**<br><br>
+`C Basics`   ████████████ 100% ✅<br>
+`Operators`  ████████████ 100% ✅<br>
+`Loops`      ████████████ 100% ✅<br>
+`Pointers`   ████████████ 100% ✅<br>
+`Functions`  ░░░░░░░░ 0% 🔄<br>
+`Arrays`     ░░░░░░░░ 0% ⏳<br>
+`C++`        ░░░░░░░░ 0% ⏳
 
 
 
@@ -53,6 +53,12 @@ I update this repo **daily** with new chapters and practice problems.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawarpayal353-cpu&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+
+### 📊 Contribution Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawarpayal353-cpu&theme=radical&hide_border=true&area=true" alt="Payal's Contribution Graph"/>
+</p>
+
 
 ### 🛠️ Tech Stack
 <p align="center">
