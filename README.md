@@ -26,8 +26,11 @@ I update this repo **daily** with new chapters and practice problems.
 **C Language**  
 `C Basics` ████████████ 100% ✅  
 `Operators` ████████████ 100% ✅ 
+
 `Loops`  ████████████ 100% ✅
-`Pointers`  ████████████ 100% ✅  
+
+`Pointers`  ████████████ 100% ✅ 
+
 `Functions` ░░░░░░░░ 0% 🔄  
 `Arrays` ░░░░░░░░ 0% ⏳  
 `C++` ░░░░░░░░ 0% ⏳
