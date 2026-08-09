@@ -114,7 +114,11 @@ chapter-5/ |— 01_pointer.c            // 🎯 Pointer basics
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=35&fontColor=white&animation=twinkling" />
+
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=white&animation=twinkling" />
 
 <p align="center">
   ✨ From <a href="https://github.com/Pawarpayal353-cpu"><b>Pawarpayal353-cpu</b></a> ✨ <br/>
