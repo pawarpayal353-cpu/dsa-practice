@@ -62,26 +62,27 @@ I update this repo **daily** with new chapters and practice problems.
 </p>
 
 ---
-
 #### `📁 Chapter 1` - **C Basics** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c-original.svg" width="25" />
 **Topics:** `📦 Variables` | `⌨️ Input/Output` | `📝 Practice Problems`
+chapter-1/
+├── 01_variable.c           // 📦 Understanding variables and data types
+├── 02_input.c              // ⌨️ Taking input from user
+├── 03_practice.c           // 📝 Practice problem 1
+├── 04_practice.c           // 📝 Practice problem 2
+├── 05_practice.c           // 📝 Practice problem 3
+└── 06_practice.c           // 📝 Practice problem 4
 
-chapter 1/
-├── 01_variable.c // 📦 Understanding variables and data types
-├── 02_input.c    // ⌨️ Taking input from user
-├── 03_practice.c // 📝 Practice problem 1
-├── 04_practice.c // 📝 Practice problem 2
-├── 05_practice.c // 📝 Practice problem 3
-└── 06_practice.c // 📝 Practice problem 4
+#### `📁 Chapter 2` - **Operators & Decision Making**
+**Topics:** `🔢 Operators` | `⚖️ Conditional` | `🧮 Switch-Case`
+chapter-2/
+├── 01_Arithmetic_operators.c  // 🔢 Arithmetic, Relational & Logical Operators
+├── 02_practice.c              // 🤔 Conditional Operators Practice
+├── 03_practice.c              // ✅ More Practice Problems
+├── conditional_operators.c    // 👑 if-else ladder & nested if
+└── switch_case_statement.c    // 🧮 Calculator/Menu using switch-case
 
-Chapter 2/
-├── 01_Arithmetic_operators.c // 🔢 Arithmetic, Relational & Logical Operators
-├── 02_practice.c             // 🤔 Conditional Operators Practice
-├── 03_practice.c             // ✅ More Practice Problems
-├── conditional_operators.c   // ⚖️ if-else ladder & nested if
-└── switch_case_statement.c   // 🔄 Calculator/Menu using switch-case
-
-Chapter 3/
+#### `📁 Chapter 3` - **Advanced Operators**
+chapter-3/
 ├── 01_arithmetic_operators.c     // ➕➖✖️➗ Basic Math Ops
 ├── 02_relational_operators.c     // ⚖️ == != > < >= <=
 ├── 03_logical_operators.c        // 🧠 && || !
@@ -89,15 +90,17 @@ Chapter 3/
 ├── 05_assignment_operators.c     // 📝 = += -= *= /=
 ├── 06_ternary_operator.c         // ❓ ? : One line if-else
 ├── 07_conditional_statement.c    // 👑 if / else if / else ladder
-├── 08_switch_case.c              // 🔄 Menu & Calculator
+├── 08_switch_case.c              // 🧮 Menu & Calculator
 └── 00_Complete_Chapter_2_Demo.c  // ⭐🔥 Covers ALL topics in 1 file
 
-Chapter 4/
+#### `📁 Chapter 4` - **Loops**
+chapter-4/
 ├── 01_while_loop.c         // 🔄 Basic while loop syntax and working
 ├── 02_while_loop.c         // 🧩 Practice problem using while loop
 └── 03_infinite_loop.c      // ♾️ Understanding infinite loops and termination
 
-Chapter 5/
+#### `📁 Chapter 5` - **Pointers, Functions & Arrays** 🔄 In Progress
+chapter-5/
 ├── 01_pointer.c            // 🎯 Pointer basics
 ├── 02_pointer.c            // 🎯 Pointer practice
 ├── 03_practice.c           // 🎯 Practice problem 1
@@ -109,7 +112,6 @@ Chapter 5/
 ├── 09_call_by_reference.c  // 🔗 Call by Reference using pointers
 ├── 10_call_by_value.c      // 📦 Call by Value - passing copy
 └── 11_SWAP.C               // 🔄 Swapping two numbers using pointers
-
 
 ---
 
