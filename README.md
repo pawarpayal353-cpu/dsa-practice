@@ -111,14 +111,15 @@ chapter-5/ |— 01_pointer.c            // 🎯 Pointer basics
 
 ### 💬 Dev Quote of the Day
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=35&fontColor=white&animation=twinkling" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=white&animation=twinkling" />
 
 <p align="center">
-  ✨ From <a href="https://github.com/Pawarpayal353-cpu"><b>Pawarpayal353-cpu</b></a> ✨ <br/>
+  ✨ From <a href="https://github.com/Pawarpayal353-cpu">Pawarpayal353-cpu</a> ✨ <br/>
   Show some love by starring the repos! ⭐
 </p>
