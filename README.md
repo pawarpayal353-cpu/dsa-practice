@@ -107,14 +107,7 @@ chapter-5/ |— 01_pointer.c            // 🎯 Pointer basics
            |— 09_call_by_reference.c  // 🔗 Call by Reference using pointers
            |— 10_call_by_value.c      // 📦 Call by Value - passing copy
            |— 11_SWAP.C               // 🔄 Swapping two numbers using pointers
-### 💬 Dev Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</p>
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=white&animation=twinkling" />
 
 <p align="center">
   ✨ From <a href="https://github.com/Pawarpayal353-cpu"><b>Pawarpayal353-cpu</b></a> ✨ <br/>
