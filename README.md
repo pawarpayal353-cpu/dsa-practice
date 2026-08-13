@@ -27,8 +27,8 @@ I update this repo **daily** with new chapters and practice problems.
 `Operators`  ████████████ 100% ✅<br>
 `Loops`      ████████████ 100% ✅<br>
 `Pointers`   ████████████ 100% ✅<br>
-`Functions`  ░░░░░░░░ 0% 🔄<br>
-`Arrays`     ░░░░░░░░ 0% ⏳<br>
+`Functions` ████████████ 100% ✅<br>
+`Arrays`    ████████████ 100% ✅<br>
 `C++`        ░░░░░░░░ 0% ⏳
 
 
@@ -109,7 +109,4 @@ chapter-5/ |— 01_pointer.c            // 🎯 Pointer basics
            |— 11_SWAP.C               // 🔄 Swapping two numbers using pointers
 
 
-<p align="center">
-  ✨ From <a href="https://github.com/Pawarpayal353-cpu"><b>Pawarpayal353-cpu</b></a> ✨ <br/>
-  Show some love by starring the repos! ⭐
-</p>
+
