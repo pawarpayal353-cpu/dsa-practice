@@ -18,7 +18,7 @@ I update this repo **daily** with new chapters and practice problems.
 | 2 | Operators & Decision Making | ✅ Done |
 | 3 | Loops - for, while, do-while | ✅ Done |
 | 4 | Pointers & Memory | ✅ Done |
-| 5 | Functions & Arrays | 🔄 In Progress |
+| 5 | Functions & Arrays| ✅ Done |
 
 ### 📊 Learning Progress
 
@@ -96,7 +96,20 @@ chapter-3/ |— 01_arithmetic_operators.c     // ➕➖✖️➗ Basic Math Ops
 chapter-4/ |— 01_while_loop.c         // 🔄 Basic while loop syntax and working
            |— 02_while_loop.c         // 🧩 Practice problem using while loop
            |— 03_infinite_loop.c      // ♾️ Understanding infinite loops and termination
-chapter-5/ |— 01_pointer.c            // 🎯 Pointer basics
+
+chapter-5/  01_pointer.c            // 🎯 Pointer basics
+           |— 02_pointer.c            // 🎯 Pointer practice
+           |— 03_practice.c           // 🎯 Practice problem 1
+           |— 04_practice.c           // 🎯 Practice problem 2
+           |— 05_practice.c           // 🎯 Practice problem 3
+           |— 06_practice.c           // 🎯 Practice problem 4
+           |— 07_practice.c           // 🎯 Practice problem 5
+           |— 08_practice.c           // 🎯 Practice problem 6
+           |— 09_call_by_reference.c  // 🔗 Call by Reference using pointers
+           |— 10_call_by_value.c      // 📦 Call by Value - passing copy
+           |— 11_SWAP.C               // 🔄 Swapping two numbers using pointers
+
+chapter-6/ |— 01_pointer.c            // 🎯 Pointer basics
            |— 02_pointer.c            // 🎯 Pointer practice
            |— 03_practice.c           // 🎯 Practice problem 1
            |— 04_practice.c           // 🎯 Practice problem 2
