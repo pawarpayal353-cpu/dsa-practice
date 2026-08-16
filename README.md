@@ -50,7 +50,7 @@ I update this repo **daily** with new chapters and practice problems.
 
 
 
-    ---
+  
 
 ### 💡 Dev Quote of the Day
 <p align="center">
