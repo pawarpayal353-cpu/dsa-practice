@@ -49,4 +49,22 @@ I update this repo **daily** with new chapters and practice problems.
 </p>
 
 
-         
+
+    ---
+
+### 💡 Dev Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+*This auto-updates with a new coding quote daily*
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
+
+<h3 align="center">Thanks for visiting! ✨</h3>
+
+<p align="center">
+From <b>pawarpayal353-cpu</b> with ❤️ Show some love by starring the repos! ⭐
